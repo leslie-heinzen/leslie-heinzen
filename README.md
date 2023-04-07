@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello.
 
 [heinzen.dev](https://heinzen.dev)
 
