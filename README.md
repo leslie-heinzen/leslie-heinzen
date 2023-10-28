@@ -1,6 +1,7 @@
-### Hello.
+hi.
 
-[heinzen.dev](https://heinzen.dev)
+for work and activities:
+[https://wildberrysoftware.com/](https://wildberrysoftware.com/)
 
 <!--
 **leslie-heinzen/leslie-heinzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
